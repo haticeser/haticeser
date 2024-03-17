@@ -20,6 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haticeser&" alt="haticeser" /></p>
 
-
-
 ![snake gif](https://github.com/haticeser/haticeser/blob/output/github-contribution-grid-snake.gif)
