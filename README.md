@@ -1,4 +1,6 @@
-([https://www.arfasoftech.com/img/blog/main-0008.jpg](https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png))
+
+<p><img align="left" src="https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png" alt="haticeser" /></p> 
+
 <h1 align="center">Hi 👋, I'm Hatice</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
